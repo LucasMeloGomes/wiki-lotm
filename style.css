@@ -7,7 +7,7 @@
 }
 
 body{
-    background-color: rgb(99, 96, 96);
+    background-color: rgb(83, 83, 83);
 }
 
 
@@ -22,7 +22,7 @@ body{
     /*border: 1px solid grey;*/
     display: flex;
     align-items: center;
-    background-color: white;
+    background-color: rgb(160, 160, 160);
 }
 
 .container{
