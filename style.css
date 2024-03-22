@@ -93,7 +93,7 @@ aside{
     background-color: rgb(146, 146, 146);
     margin: 15px 0;
     text-decoration: none;
-    color: rgb(107, 107, 107);
+    color: rgb(255, 255, 255);
 }
 
 
@@ -126,7 +126,7 @@ aside{
 
 .aside-item{
     margin: 15px 0;
-    background-color: white;
+    background-color: rgb(116, 116, 116);
 }
 
 .aside-item h2{
