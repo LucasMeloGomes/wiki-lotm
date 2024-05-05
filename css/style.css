@@ -27,6 +27,9 @@ body{
     align-items: center;
     background-color: rgb(160, 160, 160);
 }
+.wrapper{
+    background-color: black;
+}
 
 .container{
     max-width: 960px;
