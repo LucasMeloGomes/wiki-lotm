@@ -2,11 +2,7 @@ body{
     background-image: url(../img/floppa.jpg);
     background-size: cover;
 }
-#logo{
+.logo{
     font-weight: bold;
     font-size: 19px;  
      
-}
-#logo{
-    margin-left: 10px;
-}
