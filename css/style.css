@@ -9,6 +9,8 @@
 body{
     background-image: url(../img/cidade.jpg);
     background-repeat: no-repeat;
+    object-fit: fill;
+
 }
 
 
