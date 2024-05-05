@@ -9,7 +9,7 @@
 body{
     background-image: url(../img/cidade.jpg);
     background-size: cover;
-    background-position: center center;
+    background-attachment: fixed;
 }
 
 
